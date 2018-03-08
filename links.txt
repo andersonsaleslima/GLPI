@@ -1,0 +1,21 @@
+# GLPI Instalação Debian
+http://www.arthurschaefer.com.br/index.php/2016/11/30/instalar-glpi-9-1-1-no-debian-8/
+https://forum.relatosti.com.br/topic/108-instala%C3%A7%C3%A3o-do-glpi-no-gnu-linux-debian/
+
+# GLPI - CENTOS7
+https://blog.clusterweb.com.br/?p=2307
+
+# GLPI;
+http://wiki.glpi-project.org/doku.php?id=ptbr:manual:admin:5_ferramentas
+http://www.glpibrasil.com.br/o-que-e-glpi/
+
+# GLPI no WINDOWS
+https://terminaldeinformacao.com/2017/06/14/como-instalar-glpi/
+
+# Bases de Conhecimento
+https://projetoseti.com.br/base-de-conhecimento-algumas-dicas/
+http://www.milldesk.com.br/qual-a-importancia-de-se-ter-uma-base-de-conhecimento-na-ti/#.WqC1t-jwbIU
+http://www.governancadeti.com/2013/06/base-de-conhecimento-um-importante-ativo-de-ti/
+
+# OctaDesk:
+https://www.octadesk.com/?utm_source=google&utm_medium=cpc&utm_campaign=SKAG-Base_de_conhecimento_v1&gclid=Cj0KCQiAuP7UBRDiARIsAFpxiRJijIo8T6pxLg9F41s6_AkZ3aimEIWj2WNv4zDm6o_WSLd2_IO0ip0aAjsREALw_wcB
